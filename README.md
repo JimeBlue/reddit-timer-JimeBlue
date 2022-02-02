@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# The Reddit Timer App 
+
+This is an ongoing project for <a href="https://profy.dev/"> Profy Dev</a>, an organization that helps Junior Developers gain hands-on experience with professional workflows in a team environment. By working on a real project, Developers learn to use GIT in a team environment, write automated tests, use project management tools, and implement pixel-perfect designs.
+
+## Overview
+The Reddit Timer App aims to help Content Creators to know the right time to share their content on Reddit so they can reach more people. 
+
+## How I am working on this project
+
+- I´m building this app based on Figma designs: [Screenshot of designs]
+- I´m working with tasks on a Kanban board: [Screenshot of tasks]
+- I´m using feature branches and Pull Requests: [Link to example PR]
 
 ## Available Scripts
 
