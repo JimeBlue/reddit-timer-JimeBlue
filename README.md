@@ -7,8 +7,12 @@ The Reddit Timer App aims to help Content Creators to know the right time to sha
 
 ## How I am working on this project
 
-- I´m building this app based on Figma designs: [Screenshot of designs]
-- I´m working with tasks on a Kanban board: [Screenshot of tasks]
+- I´m building this app based on Figma designs: <br />
+![reddit-timer-screenshot](https://user-images.githubusercontent.com/84801660/152188933-4fa7e1ab-a78b-4f63-b10f-fcc753986354.JPG)
+- I´m working with tasks on a Kanban board: <br />
+
+![header-task](https://user-images.githubusercontent.com/84801660/152189266-e166c769-ac40-466a-81eb-62377d14b5e6.JPG)
+
 - I´m using feature branches and Pull Requests: [Link to example PR]
 
 ## Available Scripts
